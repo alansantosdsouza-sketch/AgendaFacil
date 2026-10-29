@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.fascinating_daffodil_bea790.twa",
+        "sha256_cert_fingerprints": ["E8:CE:BB:C7:0F:13:E0:43:25:83:9E:9F:64:42:21:1C:EA:20:7D:21:6E:84:75:84:84:90:08:D5:65:42:3B:B7"]
+      }
+    }]

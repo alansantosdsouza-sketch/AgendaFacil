@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.agendafacil01.twa",
+        "sha256_cert_fingerprints": ["C2:5D:EA:45:6E:02:C7:B4:86:DC:8C:D1:52:6B:88:B0:45:98:D7:03:5F:C1:4E:92:B5:CB:C3:FE:B1:8D:86:91"]
+      }
+    }]
